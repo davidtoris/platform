@@ -1,0 +1,19 @@
+.row {
+    background-color: #f2f2f2;
+    margin-top: 40px;
+    
+}
+
+.columna, .columna-aside, .columnas {
+    background-color: antiquewhite;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.header {
+    height: 150px;
+    background-color: rgba(8, 250, 8, 0.638);
+    text-align: center;
+}
+
